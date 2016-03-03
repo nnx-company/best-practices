@@ -1,0 +1,7 @@
+docs_dir: doc/book/ru
+pages:
+    - index.md
+site_name: nnx-group-best-practices
+site_description: 'Стандарты и подходы в разработке'
+repo_url: 'https://github.com/nnx-group/best-practices'
+copyright: 'Copyright (c) 2016 <a href="https://github.com/nnx-group">NNX-Group</a>'

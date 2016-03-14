@@ -5,7 +5,6 @@ pages:
       - 'Сервис-оринтированная архитектура': 'soa.md'
       - 'Сервисы': 'service.md'
       - 'Версионирование': 'version.md'
-    - 'Сервисы':
     - 'Модули':
       'Конфигурирование модуля': 'module-configs.md'
 site_name: nnx-group-best-practices

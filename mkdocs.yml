@@ -5,6 +5,9 @@ pages:
       - 'Сервис-оринтированная архитектура': 'soa.md'
       - 'Сервисы': 'service.md'
       - 'Версионирование': 'version.md'
+    - 'Сервисы':
+    - 'Модули':
+      'Конфигурирование модуля': 'module-configs.md'
 site_name: nnx-group-best-practices
 site_description: 'Стандарты и подходы в разработке'
 repo_url: 'https://github.com/nnx-group/best-practices'

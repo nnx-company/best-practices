@@ -5,6 +5,8 @@ pages:
       - 'Сервис-оринтированная архитектура': 'soa.md'
       - 'Сервисы': 'service.md'
       - 'Версионирование': 'version.md'
+    - 'Сервисы':
+      - 'Принципы построения доменной модели': 'service-domain-model.php'
     - 'Модули':
       - 'Конфигурирование модуля': 'module-configs.md'
 site_name: nnx-group-best-practices

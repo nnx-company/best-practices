@@ -6,7 +6,8 @@ pages:
       - 'Сервисы': 'service.md'
       - 'Версионирование': 'version.md'
     - 'Сервисы':
-      - 'Принципы построения доменной модели': 'service-domain-model.php'
+      - 'Абстрактные сервисы': 'abstract-service.md'
+      - 'Принципы построения доменной модели': 'service-domain-model.md'
     - 'Модули':
       - 'Конфигурирование модуля': 'module-configs.md'
 site_name: nnx-group-best-practices

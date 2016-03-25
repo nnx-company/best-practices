@@ -10,7 +10,7 @@ pages:
       - 'Принципы построения доменной модели': 'service-domain-model.md'
     - 'Модули':
       - 'Конфигурирование модуля': 'module-configs.md'
-site_name: nnx-group-best-practices
+site_name: nnx-framework-best-practices
 site_description: 'Стандарты и подходы в разработке'
-repo_url: 'https://github.com/nnx-group/best-practices'
-copyright: 'Copyright (c) 2016 <a href="https://github.com/nnx-group">NNX-Group</a>'
+repo_url: 'https://github.com/nnx-framework/best-practices'
+copyright: 'Copyright (c) 2016 <a href="https://github.com/nnx-framework">NNX-Group</a>'

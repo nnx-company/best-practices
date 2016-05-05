@@ -1,7 +1,7 @@
 docs_dir: doc/book/ru
 pages:
     - index.md
-    - 'Стратегия работы с ветками и тегами в git': 'git-workflow'
+    - 'Стратегия работы с ветками и тегами в git': 'git-workflow.md'
     - 'Архитектура':
       - 'Сервис-оринтированная архитектура': 'soa.md'
       - 'Сервисы': 'service.md'

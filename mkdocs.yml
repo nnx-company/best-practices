@@ -10,6 +10,7 @@ pages:
       - 'Абстрактные сервисы': 'abstract-service.md'
       - 'Принципы построения доменной модели': 'service-domain-model.md'
     - 'Модули':
+      - 'Как создавать модули': 'module-valid.md'
       - 'Конфигурирование модуля': 'module-configs.md'
 site_name: nnx-framework-best-practices
 site_description: 'Стандарты и подходы в разработке'
